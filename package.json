@@ -6,5 +6,9 @@
     "dependencies": {
         "optimist": "~0.6.0"
     }
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:rtadinada/node_fs.git"
+    }
 }
 
